@@ -14,6 +14,7 @@ public class HibernateArrayListTest {
 		addr1.setCity("City_1");
 		addr1.setZip("Zip_1");
 		user1.setUserId("Santosh1");
+		//Added comments to check
 		
 		user1.getCollAddress().add(addr1);
 		
